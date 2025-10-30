@@ -2,8 +2,6 @@ import type { Metadata } from 'next'
 import './globals.css'
 import './utils.css'
 
-export const dynamic = 'force-dynamic'
-
 export const metadata: Metadata = {
   title: 'Innovation Connect Berlin',
   description: 'Innovation Connect Berlin verbindet Bedarf, Kompetenz und Technologie in Echtzeit.',
