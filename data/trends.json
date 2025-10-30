@@ -1,0 +1,37 @@
+[
+  {
+    "name": "KI",
+    "value": 28,
+    "trend": "rising",
+    "change": "+5%",
+    "description": "Künstliche Intelligenz und Machine Learning"
+  },
+  {
+    "name": "5G",
+    "value": 19,
+    "trend": "stable",
+    "change": "+2%",
+    "description": "5G Netzwerk-Technologie"
+  },
+  {
+    "name": "IoT",
+    "value": 34,
+    "trend": "rising",
+    "change": "+8%",
+    "description": "Internet of Things und Sensorik"
+  },
+  {
+    "name": "Blockchain",
+    "value": 12,
+    "trend": "stable",
+    "change": "+1%",
+    "description": "Blockchain und dezentrale Systeme"
+  },
+  {
+    "name": "Automation",
+    "value": 22,
+    "trend": "rising",
+    "change": "+4%",
+    "description": "Automatisierung und Robotik"
+  }
+]

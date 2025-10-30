@@ -1,0 +1,29 @@
+[
+  {
+    "case_id": 1,
+    "title": "Smart City Logistics",
+    "description": "Optimierung der Logistik in Berlin durch IoT-Sensoren und KI-Analyse",
+    "actors": [2, 3, 4],
+    "technology": "IoT, KI, Automation",
+    "impact": "30% Effizienzsteigerung",
+    "status": "active"
+  },
+  {
+    "case_id": 2,
+    "title": "5G Campus Network",
+    "description": "Aufbau eines 5G-Testnetzes an der TU Berlin",
+    "actors": [1, 5],
+    "technology": "5G, Netzwerk",
+    "impact": "Forschungs-Showcase",
+    "status": "active"
+  },
+  {
+    "case_id": 3,
+    "title": "AI for Manufacturing",
+    "description": "Einsatz von Machine Learning in der Fertigungsindustrie",
+    "actors": [6, 3, 4],
+    "technology": "KI, Robotik, Automation",
+    "impact": "Produktionsoptimierung",
+    "status": "planning"
+  }
+]

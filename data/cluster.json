@@ -1,0 +1,56 @@
+[
+  {
+    "actor_id": 1,
+    "name": "TU Berlin",
+    "type": "Forschung",
+    "topic": "5G",
+    "district": "Charlottenburg",
+    "description": "Forschungsinstitution für 5G-Netzwerk-Technologie",
+    "contact": "forschung@tu-berlin.de"
+  },
+  {
+    "actor_id": 2,
+    "name": "HTW IoT Lab",
+    "type": "Forschung",
+    "topic": "IoT",
+    "district": "Treptow",
+    "description": "Internet of Things Labor und Testumgebung",
+    "contact": "iot@htw-berlin.de"
+  },
+  {
+    "actor_id": 3,
+    "name": "Startup VoltIQ",
+    "type": "Unternehmen",
+    "topic": "Energie",
+    "district": "Kreuzberg",
+    "description": "Innovative Energielösungen für Smart Cities",
+    "contact": "hello@voltiq.de"
+  },
+  {
+    "actor_id": 4,
+    "name": "Miguel Tisler",
+    "type": "Experte",
+    "topic": "Automation",
+    "district": "Neukölln",
+    "description": "Berater für Automatisierung und Digitalisierung",
+    "contact": "miguel@innovation-berlin.de"
+  },
+  {
+    "actor_id": 5,
+    "name": "Berlin Tech Hub",
+    "type": "Institution",
+    "topic": "Innovation",
+    "district": "Mitte",
+    "description": "Zentrale Drehscheibe für Innovationsökosystem",
+    "contact": "info@berlin-tech-hub.de"
+  },
+  {
+    "actor_id": 6,
+    "name": "AI Research Lab",
+    "type": "Forschung",
+    "topic": "Künstliche Intelligenz",
+    "district": "Spandau",
+    "description": "Forschungslabor für maschinelles Lernen",
+    "contact": "research@ai-berlin.de"
+  }
+]

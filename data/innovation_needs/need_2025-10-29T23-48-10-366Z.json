@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-10-29T23:48:10.366Z",
+  "originalQuery": "Wer kann mir mit IoT Helfen \n",
+  "rolle": "Unternehmer/Manager",
+  "bedarf": "IoT-Lösungen",
+  "themenfeld": [
+    "IoT",
+    "Industrie 4.0",
+    "Smart City"
+  ],
+  "status": "Anfrage",
+  "matches": [
+    {
+      "actor_id": 2,
+      "name": "HTW IoT Lab",
+      "type": "Forschung"
+    }
+  ]
+}
