@@ -63,7 +63,7 @@ export default function Home() {
                 margin: '0 0 0.5rem 0',
                 fontWeight: '600'
               }}>
-                📧 miguel.tislerq@gmx.de
+                📧 miguel.tisler@gmx.de
               </p>
               <p style={{
                 fontSize: '0.875rem',
